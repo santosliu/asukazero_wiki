@@ -1,0 +1,6 @@
+@CHARSET "UTF-8";
+
+div#page-title{width:328px;height:29px;margin:0 auto;background-image:url(http://210.168.90.113/img/UI/frame/title_bar.png);background-repeat:no-repeat;text-align:center;font-size:16px;font-weight:bold;line-height:29px;}
+div.lot-explain{width:208px;border:1px solid #000;height:68px;font-size:12px;padding:4px;margin:2px 0 6px 0;}
+div#nyaomikuji_result{width:440px;margin:0 auto;}
+.right{float:right;display:inline;}
